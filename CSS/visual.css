@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    height: 100%;
+    width: 100%;
+}
+
+.header-1 {
+    height: 4rem;
+    background-color: grey;
+    padding: 0 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-1 img {
+    max-width: 6rem;
+}
+
+.main {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+
+.Redes-sociais ul li {
+    display: inline-block;
+
+    position: relative;
+}
